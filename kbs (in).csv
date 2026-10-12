@@ -1,0 +1,58 @@
+Semester,Course Code,Course Name, description,pre requsit,Co-requsit,Credit Hours,Semester Offered
+1,MAT111,Mathematics I,Basic calculus concepts for engineers.,,,3,Fall
+1,MAT123,Mechanics,Introduction to engineering mechanics.,,,3,Fall
+1,MEC201,Engineering Drawing (1),Fundamentals of engineering drawing.,,,3,Fall
+1,PHY212,PHY212,Physics principles relevant to engineering.,,,3,Fall
+1,CSE014,Structured Programming,that is basics,,,3,Fall
+1,UC1,University Requirement (1),General university course.,,,2,Fall
+2,MAt112,Mathematics II,Advanced calculus and linear algebra.,MAT111,,3,Spring
+2,MAT131,Probability & Statistics I,Basic probability and statistical concepts.,,,3,Spring
+2,CSE015,Object Oriented Programming,Object-oriented software development.,CSE014,,3,Spring
+2,CSE315,Discrete Mathematics,Mathematical foundations of computing.,,,3,Spring
+2,UC2,University Requirement (2),General university course.,,,2,Spring
+2,UC3,University Requirement (3),General university course.,,,2,Spring
+3,MAT212,Linear Algebra,Matrix operations and vector spaces.,,,3,Fall
+3,CSE111,Data Structures,Fundamental data structures in computing.,CSE015,,3,Fall
+3,CSE113,Electric & Electronic Circuits,Basics of electrical and electronic circuits.,PHY212,,3,Fall
+3,CSE131,Logic Design,Design and analysis of logic circuits.,,,3,Fall
+3,UC4,University Requirement (4),General university course.,,,2,Fall
+3,UC5,University Requirement (5),General university course.,,,2,Fall
+4,MAT231,Probability & Statistics II,Advanced probability and statistics.,MAT131,,3,Spring
+4,MAT312,Differential Equations,Solving ordinary differential equations.,MAT112,,3,Spring
+4,CSE132,Computer Architecture ,Fundamentals of computer hardware.,CSE131,,3,Spring
+4,AIE111,Artificial Intelligence I,Introduction to AI techniques.,CSE015,,3,Spring
+4,E1,Elective Course (1),Elective subject from group E1.,,,3,Spring
+5,E2,Elective Course (2),Elective subject from group E2.,,,3,Fall
+5,CSE221,Database Systems,Design and use of database systems.,CSE111,,3,Fall
+5,CSE233,Operating Systems,Concepts of operating systems design.,CSE111,,3,Fall
+5,AIE121,Machine Learning,Introduction to machine learning algorithms.,AIE111,,3,Fall
+5,CSE291,Field Training 1 in Computer Engineering,Practical training in the field.,,,2,Fall
+5,UE1,Elective University (1),Elective course from other disciplines.,,,2,Fall
+6,CSE112,Design & Analysis of Algorithms,Algorithm design and complexity analysis.,CSE111,,3,Spring
+6,CSE211,Web Programming,Web development and programming techniques.,CSE015,,3,Spring
+7,CSE251,Software Engineering,Software process models and development.,CSE015,,3,Fall
+7,CSE261,Computer Networks,Networking principles and protocols.,CSE132,,3,Fall
+7,CSE234,Embedded Systems,Designing embedded systems.,CSE132,,3,Fall
+7,ELE432,Digital Signal Processing,Signal analysis and transformation.,,,3,Fall
+7,CSE242,Cryptography,Fundamentals of cryptographic systems.,CSE112,,3,Fall
+7,CSE281,Image Processing,Techniques in digital image processing.,CSE211-MAT212,,3,Fall
+7,CSE344,Introduction to Cyber Security,Basic cyber security concepts.,,,3,Fall
+7,CSE363,Cloud Computing,Principles and tools of cloud computing.,CSE261,,3,Fall
+7,UE2,Elective University (2),Elective course from other disciplines.,,,2,Fall
+8,CSE272,Parallel & Distributed Systems,Programming in parallel and distributed systems.,CSE132,,3,Spring
+8,CSE335,Real Time & Embedded Systems Design,Design principles for real-time systems.,CSE234,,3,Spring
+8,CSE446,Information & Computer Networks Security,Security in computer networks.,CSE261,,3,Spring
+8,CSE464,Internet of Things,IoT applications and design.,CSE261,,3,Spring
+8,CSE392,Field Training 2 in Computer Engineering,Advanced training in the field.,CSE291,,2,Spring
+8,UC6,University Requirement (6),General university course.,,,2,Spring
+9,E3,Elective Course (3),Elective subject from group E3.,,,3,Fall
+9,E4,Elective Course (4),Elective subject from group E4.,,,3,Fall
+9,UE3,Elective University (3),Elective course from other disciplines.,,,2,Fall
+10,CSE436,Selected Topics in Embedded Systems,Advanced topics in embedded systems.,CSE234,,3,Spring
+10,CSE493,Graduation Project 1,Capstone project � part 1.,,,2,Spring
+10,UC7,University Requirement (7),General university course.,,,2,Spring
+10,E5,Elective Course (5),Elective subject from group E5.,,,3,Spring
+10,E6,Elective Course (6),Elective subject from group E6.,,,3,Spring
+10,CSE466,Selected Topics in IoT,Advanced topics in IoT.,CSE363,,3,Spring
+10,CSE494,Graduation Project 2,Capstone project � part 2.,CSE493,,2,Spring
+10,UE3,Elective University (3),Elective course from other disciplines.,,,2,Spring
